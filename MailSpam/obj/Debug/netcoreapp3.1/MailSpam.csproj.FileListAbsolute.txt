@@ -1,0 +1,13 @@
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\bin\Debug\netcoreapp3.1\MailSpam.exe
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\bin\Debug\netcoreapp3.1\MailSpam.deps.json
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\bin\Debug\netcoreapp3.1\MailSpam.runtimeconfig.json
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\bin\Debug\netcoreapp3.1\MailSpam.runtimeconfig.dev.json
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\bin\Debug\netcoreapp3.1\MailSpam.dll
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\bin\Debug\netcoreapp3.1\MailSpam.pdb
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.csprojAssemblyReference.cache
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.AssemblyInfoInputs.cache
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.AssemblyInfo.cs
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.csproj.CoreCompileInputs.cache
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.dll
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.pdb
+C:\Users\Oscar Tristan\source\repos\MailSpam\MailSpam\obj\Debug\netcoreapp3.1\MailSpam.genruntimeconfig.cache
